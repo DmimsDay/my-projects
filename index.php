@@ -1,2 +1,5 @@
 <?php
-echo "Hello World";
+
+$myFirstWar = 10;
+
+echo $myFirstWar;
