@@ -22,4 +22,3 @@ $hello = 'Привет, как дела?';
 $goodbue = 'До новых встреч!';
 
 var_dump($goodbue);
-

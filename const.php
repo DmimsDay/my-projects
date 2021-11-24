@@ -10,4 +10,3 @@ const PATH_TO_MY_PROJECT = "/some/path/to/my/project";
 define('DATA', [ true, 'Привет', 10, 55.12 ]);
 
 var_dump(DATA);
-
